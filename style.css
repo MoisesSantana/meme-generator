@@ -80,7 +80,7 @@ button {
 }
 
 .button-fire {
-  background: url('./../imgs/fire.png');
+  background: url('./imgs/fire.png');
   background-color: red;
   background-size: 100px;
   border: 1px solid red;
@@ -91,7 +91,7 @@ button {
 }
 
 .button-water {
-  background: url('./../imgs/water.png');
+  background: url('./imgs/water.png');
   background-color: blue;
   background-size: 100px;
   border: 1px solid blue;
@@ -102,7 +102,7 @@ button {
 }
 
 .button-earth {
-  background: url('./../imgs/earth.png');
+  background: url('./imgs/earth.png');
   background-color: green;
   background-size: 100px;
   border: 1px solid green;
