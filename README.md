@@ -3,6 +3,8 @@
 
 Meme Generator é um projeto idealizado pela Trybe onde temos como tarefa criar uma página web usando HTML5/CSS3/JavaScript, a página tem como objetivo permitir que o cliente carregue uma imagem de seu computador e digite um texto sobre a imagem, é disponibilizado 3 tipos de bordas para a imagem e alguns memes já prontos.
 
+O site foi projetado para um display de 1366 x 768!!!
+
 ![Imagem do projeto](./exemplo-meme-generator.png)
 
 ## Técnologias utilizadas:
