@@ -133,6 +133,12 @@ button {
   text-align: center;
 }
 
+.meme-right img{
+  box-sizing: border-box;
+  height: 680px;
+  width: 300px;
+}
+
 footer {
   background-color: rgb(135 , 151 , 175);
   clear: both;
